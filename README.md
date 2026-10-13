@@ -1,4 +1,4 @@
 # pierwszy-program
 Pierwszy projekt w c*
 Został stworzony na serwerze githuba
-Modyfikacja lokalna w vscod
+Modyfikacja lokalna w vscode
